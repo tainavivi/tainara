@@ -2,9 +2,16 @@
 .cabeçalho {
    background:#000000;
 color: rgb(254,255,255)
+   display:flex;
+jutify-content: space-around;
+   aling-intem: padding 24px 0;
    {
    .cabeçalho-imagem }
       width: 20%
 }
-
+.cabeçalho-lista-intem{
+   display: inline-block:
+   margin: 0 16px 
+   font-size: 24px
+}
  
